@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Landing RV"
               description="Landing para la empresa RV. Se trata de una landing de 3 secciones con toda la informacion necesaria para sentirte seguro de contratar sus servicios. Construida con React, Javascript, Bootstrap, CSS."
-              ghLink="https://github.com/caroescalante/PI-Pokemons"
+              ghLink="https://github.com/caroescalante/RV-WebC"
               demoLink="https://rv-web-c.vercel.app/"              
             />
           </Col>
